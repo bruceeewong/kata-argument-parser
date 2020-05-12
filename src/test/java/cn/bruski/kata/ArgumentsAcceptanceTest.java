@@ -1,6 +1,6 @@
 package test.java.cn.bruski.kata;
 
-import main.java.cn.bruski.kata.Arguments;
+import main.java.cn.bruski.kata.Parser;
 import main.java.cn.bruski.kata.Schema;
 import org.junit.Test;
 
@@ -16,7 +16,7 @@ public class ArgumentsAcceptanceTest {
 
         // 2. parse arguments
         String[] argumentsAsStrings = {"-l", "true", "-d", "/usr/data", "-p", "8080"};
-        Arguments arguments = new Arguments(schema, argumentsAsStrings);
+        Parser arguments = new Parser(schema, argumentsAsStrings);
 
         // 3. get parsed value
         assertThat(arguments.valueOf("l"), is(true));

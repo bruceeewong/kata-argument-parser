@@ -4,11 +4,11 @@ import java.util.TreeMap;
 
 import static java.lang.Boolean.parseBoolean;
 import static java.lang.Integer.parseInt;
-public class Arguments {
+public class Parser {
     private TreeMap<String, String> argumentMap;
     private Schema schema;
 
-    public Arguments(Schema schema, String[] argumentsAsStrings) {
+    public Parser(Schema schema, String[] argumentsAsStrings) {
         this.schema = schema;
         argumentMap = new TreeMap<>();
 
@@ -24,12 +24,16 @@ public class Arguments {
     }
 
     public Object valueOf(String key) {
-        if (schema.typeOf(key).equals("boolean")) {
+        if (typeEquals(key, "boolean")) {
             return parseBoolean(argumentMap.get(key));
         }
-        if (schema.typeOf(key).equals("integer")) {
+        if (typeEquals(key, "integer")) {
             return parseInt(argumentMap.get(key));
         }
         return argumentMap.get(key);
+    }
+
+    private boolean typeEquals(String key, String typeAsText) {
+        return schema.typeOf(key).equals(typeAsText);
     }
 }
