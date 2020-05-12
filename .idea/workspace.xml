@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf02f852-2101-4bfd-a509-f33abef2ce79" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="test.java.cn.bruski.kata in dojo-scaffold" />
+    </enabled-run-configurations>
+  </component>
+  <component name="ProjectId" id="1boCA6gbxdowUSUGxpGxc9yhIcQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="main.java.cn.bruski.kata" />
+      <recent name="test.cn.bruski.kata" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.test.java.cn.bruski.kata in dojo-scaffold">
+    <configuration name="ArgumentsAcceptanceTest.should_parse_arguements_out_of_schema_and_input_string" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dojo-scaffold" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.cn.bruski.kata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.cn.bruski.kata" />
+      <option name="MAIN_CLASS_NAME" value="test.java.cn.bruski.kata.ArgumentsAcceptanceTest" />
+      <option name="METHOD_NAME" value="should_parse_arguements_out_of_schema_and_input_string" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchemaTest.should_create_schema_out_of_text" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dojo-scaffold" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.cn.bruski.kata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.cn.bruski.kata" />
+      <option name="MAIN_CLASS_NAME" value="test.java.cn.bruski.kata.SchemaTest" />
+      <option name="METHOD_NAME" value="should_create_schema_out_of_text" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.java.cn.bruski.kata in dojo-scaffold" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dojo-scaffold" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.cn.bruski.kata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.cn.bruski.kata" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.test.java.cn.bruski.kata in dojo-scaffold" />
+        <item itemvalue="JUnit.ArgumentsAcceptanceTest.should_parse_arguements_out_of_schema_and_input_string" />
+        <item itemvalue="JUnit.SchemaTest.should_create_schema_out_of_text" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf02f852-2101-4bfd-a509-f33abef2ce79" name="Default Changelist" comment="" />
+      <created>1589288912262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589288912262</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="755" y="332" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1589290873774">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="755" y="332" key="#com.intellij.ide.util.PackageChooserDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1589290873774" />
+    <state width="1002" height="305" key="GridCell.Tab.0.bottom" timestamp="1589293931393">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1002" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1589293931393" />
+    <state width="1002" height="305" key="GridCell.Tab.0.center" timestamp="1589293931393">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1002" height="305" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1589293931393" />
+    <state width="1002" height="305" key="GridCell.Tab.0.left" timestamp="1589293931393">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1002" height="305" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1589293931393" />
+    <state width="1002" height="305" key="GridCell.Tab.0.right" timestamp="1589293931393">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1002" height="305" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1589293931393" />
+    <state x="526" y="198" key="SettingsEditor" timestamp="1589290595562">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="526" y="198" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1589290595562" />
+    <state x="741" y="450" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589289285351">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="741" y="450" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.2048.1112@0.0.2048.1112" timestamp="1589289285351" />
+    <state x="755" y="310" key="extract.method.dialog" timestamp="1589293467673">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="755" y="310" key="extract.method.dialog/0.0.2048.1112@0.0.2048.1112" timestamp="1589293467673" />
+    <state x="687" y="243" key="search.everywhere.popup" timestamp="1589292692035">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="687" y="243" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1589292692035" />
+  </component>
+</project>
