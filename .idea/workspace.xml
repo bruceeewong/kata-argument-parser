@@ -2,19 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf02f852-2101-4bfd-a509-f33abef2ce79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/bruski/kata/Argument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/bruski/kata/Arguments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/bruski/kata/Parser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/bruski/kata/Schema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/bruski/kata/Schema.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cn/bruski/kata/ArgumentTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cn/bruski/kata/ArgumentsAcceptanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cn/bruski/kata/ArgumentsAcceptanceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cn/bruski/kata/ArgumentsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cn/bruski/kata/ParserTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="251" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -131,22 +128,22 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="654" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1589294494529" />
-    <state width="1002" height="305" key="GridCell.Tab.0.bottom" timestamp="1589294044790">
+    <state width="1002" height="243" key="GridCell.Tab.0.bottom" timestamp="1589294638019">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1002" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1589294044790" />
-    <state width="1002" height="305" key="GridCell.Tab.0.center" timestamp="1589294044790">
+    <state width="1002" height="243" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1589294638019" />
+    <state width="1002" height="243" key="GridCell.Tab.0.center" timestamp="1589294638019">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1002" height="305" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1589294044790" />
-    <state width="1002" height="305" key="GridCell.Tab.0.left" timestamp="1589294044790">
+    <state width="1002" height="243" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1589294638019" />
+    <state width="1002" height="243" key="GridCell.Tab.0.left" timestamp="1589294638019">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1002" height="305" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1589294044790" />
-    <state width="1002" height="305" key="GridCell.Tab.0.right" timestamp="1589294044790">
+    <state width="1002" height="243" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1589294638019" />
+    <state width="1002" height="243" key="GridCell.Tab.0.right" timestamp="1589294638019">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1002" height="305" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1589294044790" />
+    <state width="1002" height="243" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1589294638019" />
     <state x="839" y="490" key="ReplaceDuplicatesPrompt" timestamp="1589294372292">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -169,7 +166,7 @@
     <state x="687" y="243" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1589292692035" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/dojo_scaffold$test_java_cn_bruski_kata_in_dojo_scaffold.ic" NAME="test.java.cn.bruski.kata in dojo-scaffold Coverage Results" MODIFIED="1589294044738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/dojo_scaffold$test_java_cn_bruski_kata_in_dojo_scaffold.ic" NAME="test.java.cn.bruski.kata in dojo-scaffold Coverage Results" MODIFIED="1589294545492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>test.java.cn.bruski.kata.*</FILTER>
     </SUITE>
   </component>
